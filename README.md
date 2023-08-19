@@ -1,1 +1,2 @@
-1.components that improve the readability and maintainability of our code.
+1.Adding assets into the project
+2.Drawing on the screen
